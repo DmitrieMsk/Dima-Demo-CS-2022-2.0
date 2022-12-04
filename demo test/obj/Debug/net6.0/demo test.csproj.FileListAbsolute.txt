@@ -1,0 +1,15 @@
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\bin\Debug\net6.0\demo test.exe
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\bin\Debug\net6.0\demo test.deps.json
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\bin\Debug\net6.0\demo test.runtimeconfig.json
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\bin\Debug\net6.0\demo test.dll
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\bin\Debug\net6.0\demo test.pdb
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.dll
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\refint\demo test.dll
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.pdb
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\demo test.genruntimeconfig.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\demo test\obj\Debug\net6.0\ref\demo test.dll

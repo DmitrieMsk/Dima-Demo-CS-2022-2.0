@@ -1,0 +1,15 @@
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe.config
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.pdb
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.AssemblyReference.cache
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.CoreCompileInputs.cache
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.exe
+C:\Users\DimaNataDanya\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.pdb
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe.config
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.pdb
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.exe
+C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.pdb
