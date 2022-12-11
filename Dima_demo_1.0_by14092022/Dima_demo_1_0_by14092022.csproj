@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calc.cs" />
+    <Compile Include="ForConsoleClass.cs" />
     <Compile Include="IOUtils.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="MenuItems\MenuItemDate.cs" />

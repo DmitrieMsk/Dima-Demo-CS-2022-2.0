@@ -4974,11 +4974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\DimaNataDanya\\.nuget\\packages\\",
-      "outputPath": "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4999,8 +4999,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\Dima_demo_1.0_by14092022\\Dima_demo_1_0_by14092022.csproj": {
-              "projectPath": "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\Dima_demo_1.0_by14092022\\Dima_demo_1_0_by14092022.csproj"
+            "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\Dima_demo_1.0_by14092022\\Dima_demo_1_0_by14092022.csproj": {
+              "projectPath": "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\Dima_demo_1.0_by14092022\\Dima_demo_1_0_by14092022.csproj"
             }
           }
         }

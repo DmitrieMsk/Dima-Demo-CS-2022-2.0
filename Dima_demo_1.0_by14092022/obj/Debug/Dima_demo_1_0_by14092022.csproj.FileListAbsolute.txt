@@ -13,3 +13,10 @@ C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\o
 C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.CoreCompileInputs.cache
 C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.exe
 C:\Users\Daniil\source\repos\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.pdb
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe.config
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.exe
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\bin\Debug\Dima_demo_1.0_by14092022.pdb
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.AssemblyReference.cache
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1_0_by14092022.csproj.CoreCompileInputs.cache
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.exe
+Q:\dev\Dima_demo_1.0_by14092022\Dima_demo_1.0_by14092022\obj\Debug\Dima_demo_1.0_by14092022.pdb

@@ -51,5 +51,15 @@ namespace Dima_demo_1_0_by14092022.MenuItems
 			try { String_check.string_check_p4_str1(str2_copy); }
 			catch (ValidationExceptions E) { Console.WriteLine(E.Message); }
 		}
+		public static void StringArgs(string str11, string str22)
+		{
+			str1 = str11;
+			str2 = str22;
+			strings_metods_check_one();
+			strings_metods_check_two();
+			strings_metods_check_three();
+			strings_metods_check_four_s1();
+			strings_metods_check_four_s2();
+		}
 	}
 }

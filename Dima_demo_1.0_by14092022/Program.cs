@@ -11,15 +11,24 @@ namespace Dima_demo_1_0_by14092022
 	{
 		static void Main(string[] args)
 		{
-			Menu.ClearItems();
-			Menu.AddItem(new MenuItemExit());
-			Menu.AddItem(new MenuItemHelloWorld());
-			Menu.AddItem(new MenuItemFormula());
-			Menu.AddItem(new MenuItemDate());
-			Menu.AddItem(new MenuItemStrings());
-			while (true)
+			if (args.Length == 0)
 			{
-				Menu.Execute();
+
+
+				Menu.ClearItems();
+				Menu.AddItem(new MenuItemExit());
+				Menu.AddItem(new MenuItemHelloWorld());
+				Menu.AddItem(new MenuItemFormula());
+				Menu.AddItem(new MenuItemDate());
+				Menu.AddItem(new MenuItemStrings());
+				while (true)
+				{
+					Menu.Execute();
+				}
+			}
+			else
+			{
+				ForConsoleClass.StartProgram(args);
 			}
 		}		
 	}

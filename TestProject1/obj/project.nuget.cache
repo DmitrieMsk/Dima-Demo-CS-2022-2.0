@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mx+A8d2XH++hDjTnGrTwgM5GeU+eeOYYmAUmy0lNiuhjLZ4elXzoGEiNccjwt0EmpYgH30ew6IEx4nQrOovvAw==",
+  "dgSpecHash": "4dZGNKbZEDlfJyEhZQm5yfEOCa6Gb4NB31swve7pO+xjqV3l/oOpfIDXH6H7m1OeNJN370GgfZOo3SgGAzOA0A==",
   "success": true,
-  "projectFilePath": "Q:\\dev\\.git\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\DimaNataDanya\\source\\repos\\Dima_demo_1.0_by14092022\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DimaNataDanya\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\DimaNataDanya\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
