@@ -97,7 +97,7 @@ namespace Dima_demo_1_0_by14092022
 			else
 			{
 				double Calc = Convert.ToDouble(X * Y % Z);
-				Console.Write("Calc = ");
+				Console.Write("Formula = ");
 				Console.WriteLine(Calc);
 			}
 		}

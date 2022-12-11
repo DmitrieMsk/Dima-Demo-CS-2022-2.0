@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calc.cs" />
-    <Compile Include="ForConsoleClass.cs" />
-    <Compile Include="IOUtils.cs" />
+    <Compile Include="Auxiliary classes\Calc.cs" />
+    <Compile Include="Auxiliary classes\ForConsoleClass.cs" />
+    <Compile Include="Auxiliary classes\IOUtils.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="MenuItems\MenuItemDate.cs" />
     <Compile Include="MenuItems\MenuItemFormula.cs" />

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima_demo_1_0_by14092022", "Dima_demo_1.0_by14092022\Dima_demo_1_0_by14092022.csproj", "{FF807645-3EEC-498D-9A2C-191D9659ED47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{5A5ECC08-6920-4E78-A9F5-7DC410C1E1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{5A5ECC08-6920-4E78-A9F5-7DC410C1E1B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
